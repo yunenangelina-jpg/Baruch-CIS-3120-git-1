@@ -12,4 +12,8 @@ This file lists all students contributing Homework 1
 repository.
 ---
 ### Format:
-**[Angelina Yunen]** (GitHub: [yunenangelina-jpg]) | []
+**[Your Full Name]** (GitHub: [Your GitHub Username]) | [Your Favorite Movie]
+### Example:
+**Vinayak Javaly** (GitHub: vjavaly) | Apocalypse Now!
+## Student contributors:
+<!-- Students: Add your entries below this line! -->
