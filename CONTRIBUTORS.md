@@ -17,3 +17,4 @@ repository.
 **Vinayak Javaly** (GitHub: vjavaly) | Apocalypse Now!
 ## Student contributors:
 <!-- Students: Add your entries below this line! -->
+**Angelina Yunen** (GitHub: yunenangelina-jpg) | Florida Project
